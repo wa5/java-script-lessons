@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+  document.write(" this is in line scrip<br>");
+  document.write("yes it is");
+  document.write("<i>yes it is<i>");
+   </script>
+    <title>Document</title>
+</head>
+
+<body>
+    
+</body>
+</html>
