@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+       let gap ="hello";
+       let gap ="hi";
+  document.write(gap);
+   
+   </script>
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
