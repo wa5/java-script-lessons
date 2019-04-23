@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+   this is in line scrip
+   
+   </script>
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        this is in line scrip type2
+
+        it is needed becuse it will be looded after html
+        
+        </script>
+</body>
+</html>
