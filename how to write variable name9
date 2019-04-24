@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+   
+   //RIGHT
+       var firstname="hello";
+      document.write(firstname);
+      
+       //var first-name="hello";
+     // document.write(first-name);
+      
+       //var firstName="hello";
+      //document.write(firstName);
+      
+      
+      // var first_name="hello";
+    //  document.write(first_name);
+    
+    // var firstname99="hello";
+     // document.write(firstname99);
+    
+//WRONG
+
+ //var first name="hello";
+     // document.write(first name);
+     
+      var 99firstname="hello";
+      document.write(99firstname);
+     
+
+   </script>
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
