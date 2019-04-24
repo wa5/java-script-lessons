@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+       var gap ="hello';
+       
+document.write(gap);
+//check on chroom console
+   </script>
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
