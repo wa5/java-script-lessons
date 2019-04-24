@@ -3,8 +3,11 @@
 <head>
    <script>
        var gap ="hello";
-  document.write(gap);
-   
+       var z='iiht';
+      // z=45.8;
+document.write(z);
+document.write(gap);
+   //document.write("gap");
    </script>
     <title>Document</title>
 </head>
