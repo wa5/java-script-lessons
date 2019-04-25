@@ -1,0 +1,32 @@
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+//var z ="y";
+var z ='y';
+//z = 45;//over riding z value 
+//z = 45.5;
+//z =-34;
+
+//z = true;//it will show above given value of x true
+//z = fales;//it will show  fales value
+
+//z = undefined;
+//z = ["hello","king","kong"];
+objects//z = {
+name :"iiht"
+      country :"india"
+}
+
+  document.write(z);
+  
+   document.write(<br>);
+    document.write(typeof z);
+   </script>
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
