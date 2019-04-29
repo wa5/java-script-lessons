@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+   var a = 10;
+   var b = 3;
+   var c = a + b * 2;//see expected results
+   var c = (a + b )* 2;
+   document.write(a);
+
+   
+   </script>
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
