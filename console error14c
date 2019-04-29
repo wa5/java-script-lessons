@@ -1,0 +1,17 @@
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+   var a = 10;
+   
+ 
+   console.error("something went wrong");
+   
+   </script>
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
