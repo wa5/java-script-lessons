@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+   var a = 10;
+  // var b = 20;
+  // var b = 10;
+   var b = "10";
+   //only value
+   console.log(a == b);
+   //now data type also along with value
+   console.log(a === b);
+   //  direct using not equal condition with nos
+   console.log(2 != 3);//eg:1
+   console.log(2 != 2);//eg:2
+    console.log(2 != '2');//eg:3
+    
+    //now not equal value or type
+     console.log(2 !== '2');//eg:2
+     
+     //using greater then operator
+      console.log(2 > 1);
+   
+   //using lesser than operator
+    console.log(2 < 2);
+   //using greaterthen or equal to
+   
+    console.log(2 >= 2);
+    //using lesser then or equal to
+     console.log(2 <= 2);
+    
+   </script>
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
