@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+   var a = 10;
+   console.time("test");
+   console.warn("this is just a warning");
+ console.warn("this is just a warning");
+ console.warn("this is just a warning");
+ console.warn("this is just a warning");
+ console.warn("this is just a warning");
+   console.timeEnd("test");
+   </script>
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
+© 2019 GitHub, Inc.
