@@ -9,6 +9,9 @@
    document.write(<br>);
    a--;
    document.write(a);
+   //without variable
+   //document.write(25+10);
+   
    </script>
     <title>Document</title>
 </head>
