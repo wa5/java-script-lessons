@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+   var a = 10;
+   var b = 3;
+   a = a + b;
+  // a += b;
+  // a -= b;
+ //  a *= b;
+  // a /= b;
+ //  a %= b;
+   //a **= b;
+   document.write(a);
+
+   
+   </script>
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
