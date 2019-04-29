@@ -1,0 +1,32 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+   /*var a = 10;
+   
+   if(a > 55){
+   console.log("this is greater");
+   }else{
+   console.log("no it is lesser");
+   }*/
+
+   </script>
+    <script>
+   var name  = "waseem";
+   var gender ="male";
+   //var gender ="female";
+   
+   if(gender ==" female "){
+   document.write("hello mr."+ name);
+   }else{
+   document.write("hello miss."+ name);
+   }
+
+   </script>
+   
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
