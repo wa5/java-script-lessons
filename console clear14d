@@ -1,0 +1,24 @@
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+   var a = 10;
+   
+   console.warn("this is just a warning");
+    console.warn("this is just a warning");
+     console.warn("this is just a warning");
+      console.warn("this is just a warning");
+       console.warn("this is just a warning");
+        console.warn("this is just a warning");
+         console.warn("this is just a warning");
+         console.clear();
+ 
+   
+   </script>
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
