@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+//HEAR ONE CONDITION SHOULD BE TRUE
+   <script>
+  var age = 30;
+   
+   if( age >= 20 || age <= 21 ){
+  
+   console.log("yes u are eligible");
+   }
+
+   </script>
+  
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
