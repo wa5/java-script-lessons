@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+  var a = 30;
+   var b
+ 
+ console.log(!a >= 12);
+ 
+ //if(!a >= 12 ){
+  
+  // console.log("yes u are eligible");
+  // }
+
+   </script>
+  
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
