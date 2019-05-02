@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+ 
+  confirm("do u like our website ?");
+ // now put the value in any variable
+  //var a = confirm("do u like our website ?");
+ // alert(a);
+</script>
+   <script>
+ 
+        
+    /*   // now using it with if condition
+        var a = confirm("do u like our website ?");
+        if (a) {
+            alert("thanks");
+        } else {
+            alert("sorry");
+        }/*
+       
+      </script>
+
+    <title>Document</title>
+</head>
+<body>
+  
+</body>.
+</html> 
