@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+       // check what happens after removing breaks
+ /* var day = 12;
+   
+   switch (day){
+     case 0:
+     document.write("to day is monday");
+     break;
+     case 1:
+     document.write("to day is tusday");
+  break;
+  case 2:
+  document.write("to day is wednesday");
+     break;
+     case 3:
+     document.write("to day is therday");
+  break;
+  case 4:
+  document.write("to day is friday");
+  break;
+  case 5:
+  document.write("to day is saturday");
+  break;
+  case 6:
+  document.write("to day is sunday");
+  break;
+
+  default:
+  document.write("enter the valid day");
+   }
+   
+   document.write(b);*/
+  
+</script>
+<script>
+    var age = 10;
+    switch (true) {
+        case (age  >= 15 && age <=20):
+        document.write("you are eligible");
+            break;
+            case (age >= 21 && age <=30):
+        document.write("you are eligible");
+            break;
+    
+
+        default:
+        
+        document.write("enter the the valid age");
+           
+    
+            break;
+    }
+</script>
+   
+    <title>Document</title>
+</head>
+<body>
+  
+</body>.
+</html>
