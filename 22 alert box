@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+  
+  // alert("hello every body");
+   
+  
+</script>
+
+<script>
+  //using alert in the condition
+   var a =100;
+   var b = 20;
+    
+    if ( a > b ) {
+        alert("a is greater");
+//putting variable value directly
+       // alert(a );
+       //concatinatng the value of a along with text
+       //  alert("the value of A :" + a );
+       //doing arthametic operation 
+      // alert( a+b);
+    } else {
+        alert("b is greater");
+       //putting variable value directly
+        //alert(b );
+
+        //concatinatng the value of a along with text
+       // alert("the value of A : "+ b );
+    }
+      
+        
+       
+     </script>
+    <title>Document</title>
+</head>
+<body>
+  
+</body>.
+</html>
