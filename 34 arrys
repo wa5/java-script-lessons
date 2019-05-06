@@ -1,0 +1,17 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <script>
+   var ary  = [10,20,30,40,50,60];
+   
+   document.write(ary[2]);
+
+   </script>
+   
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
