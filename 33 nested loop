@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+   
+    <script>
+  for (var a=1; a<=100; a=a+10 ){
+  for (var b=a; b<a+10; b++ ){
+  document.write(b + " ");
+  }
+  document.write("<br>");
+  }
+   </script>
+   
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
