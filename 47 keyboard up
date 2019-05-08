@@ -11,8 +11,8 @@
    
     <title>Document</title>
 </head>
-<body>
+<body onkeyup="hello()">
   <button onclick="hello()">click me</button>
-  <p onkeyup="hello()"> click on me</p>
+  <p > click on me</p>
 </body>.
 </html>
