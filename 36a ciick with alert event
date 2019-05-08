@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+  var a = 100;
+  function hello(){
+  alert("hello everyone");
+  }
+  
+</script>
+   
+    <title>Document</title>
+</head>
+<body>
+  <button onclick="hello()">click me</button>
+</body>.
+</html>
