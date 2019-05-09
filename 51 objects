@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <script>
+   var a ={
+   fname: 'iiht',
+   lastname : 'institute',
+   age : 25,
+   emailid :'iihtzoom@gmail.com',
+  // movies :["sholay","3idiot","dhoom",],
+  salary : function(){
+    return 250000;
+  },
+   };
+//document.write(a);
+//document.write(a.fname);
+//document.write(a.movies);
+document.write(a.salary());
+console.log(a);
+   </script>
+   
+    <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
